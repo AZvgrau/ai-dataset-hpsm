@@ -4,23 +4,23 @@
 
 |                | Valid set   | Test set   |
 |-----------------|---------------|----------------|
-| Nb preds.   | NA  | NA  |
-| Nb images   | NA  | NA  |
-| Nb pos images   | NA  | NA  |
+| Nb preds.   | 980  | 977  |
+| Nb images   | 911  | 928  |
+| Nb pos images   | 330  | 334  |
 
 ### Organs distribution
 
-![](${trauma_val_organ_dist_img_path})
+![](media/organ_distrib_trauma.png)
 
 ## Chest
 
 |                | Valid set   | Test set   |
 |-----------------|---------------|----------------|
-| Nb preds.   | NA  | NA  |
-| Nb images   | NA  | NA  |
-| Nb pos images   | NA  | NA  |
+| Nb preds.   | nan  | nan  |
+| Nb images   | nan  | nan  |
+| Nb pos images   | nan  | nan  |
 
 
 ### Pathologies distribution
 
-![](${chest_val_organ_dist_img_path})
+![](media/organ_distrib_chest.png)
